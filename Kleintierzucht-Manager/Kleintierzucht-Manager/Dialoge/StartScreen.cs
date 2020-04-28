@@ -40,7 +40,10 @@ namespace Kleintierzucht_Manager.Dialoge
             //
 
 
-
+            //Starte MainFrame
+            MainFrame mainFrame = new MainFrame();
+            mainFrame.Show();
+            this.Visible = false;
         }
     }
 }
