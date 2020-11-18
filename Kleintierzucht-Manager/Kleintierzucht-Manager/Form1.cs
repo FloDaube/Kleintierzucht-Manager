@@ -16,6 +16,5 @@ namespace Kleintierzucht_Manager
         {
             InitializeComponent();
         }
-
     }
 }

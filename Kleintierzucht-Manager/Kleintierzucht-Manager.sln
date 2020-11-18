@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleintierzucht-Manager", "Kleintierzucht-Manager\Kleintierzucht-Manager.csproj", "{78FA80AB-2A23-409C-98A4-087449E32781}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleintierzucht-Manager", "Kleintierzucht-Manager\Kleintierzucht-Manager.csproj", "{11064EC7-C852-4748-8B70-F844390A4B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTZM.Common", "KTZM.Common\KTZM.Common.csproj", "{E2A7CA7D-F9D7-4DE6-B967-89DC870A0254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{78FA80AB-2A23-409C-98A4-087449E32781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78FA80AB-2A23-409C-98A4-087449E32781}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78FA80AB-2A23-409C-98A4-087449E32781}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78FA80AB-2A23-409C-98A4-087449E32781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11064EC7-C852-4748-8B70-F844390A4B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11064EC7-C852-4748-8B70-F844390A4B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11064EC7-C852-4748-8B70-F844390A4B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11064EC7-C852-4748-8B70-F844390A4B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A7CA7D-F9D7-4DE6-B967-89DC870A0254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A7CA7D-F9D7-4DE6-B967-89DC870A0254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A7CA7D-F9D7-4DE6-B967-89DC870A0254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A7CA7D-F9D7-4DE6-B967-89DC870A0254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
